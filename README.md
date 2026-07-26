@@ -4,7 +4,7 @@ This repository provides the source code and experimental data for the paper:
 
 **Learning-based Adaptive Selection of Preference and Operator for Constrained Multi-objective Optimization**
 
-LASPO is a constrained multi-objective evolutionary algorithm that uses a Q-learning-based neural approximator to adaptively select preference strategies and reproduction operators according to the current evolutionary state.
+LASPO is a constrained multi-objective evolutionary algorithm that uses ......
 
 ## Repository Structure
 
